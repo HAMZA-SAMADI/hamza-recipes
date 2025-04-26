@@ -1,0 +1,55 @@
+html {
+    background-color: bisque;
+color: rgb(0, 0, 0) ;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+margin: 0px;
+height: 100vh;
+}
+.home {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    padding: 5px 5px;
+    border: 2px solid black;
+    text-decoration: none;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.header {
+    color: rgb(255, 255, 255);
+    background-color: green;
+    width: fit-content;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 3px 3px;
+}
+.image {
+    height: inherit;
+    width: auto;
+    border: 2px solid green;
+    margin-right: auto;
+    margin-left: auto;
+}
+.title{
+color:black;
+background-color: white;
+font-size: 26px;
+font-weight: bold;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p, ul, ol {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+ }
+ h3 {
+    font-size: 24px;
+ }
